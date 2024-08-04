@@ -19,8 +19,9 @@ A simple Express.js application that fetches and displays weather information ba
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd weather-service
+   git clone (https://github.com/pranavgolla/adaptNxtBackendAssignment)
+   cd adaptNxtBackendAssignment
+
 
 2 Install the required dependencies:
   npm install
